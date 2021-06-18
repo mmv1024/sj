@@ -1,0 +1,11 @@
+Ваш менеджер ЕкатеринаВаш менеджер Екатерина/* Vector 4 */
+
+  position: absolute;
+  width: 98.5px;
+  height: 39.5px;
+  left: 1473px;
+  top: 15180.5px;
+
+  background: #FFFFFF;box-sizing: border-box;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+
